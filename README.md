@@ -17,12 +17,11 @@
 
 # Требования
 
-* Реализовать с использованием Angular 2+.
+* Реализовать с использованием Angular 6+.
 * Не использовать препроцессоры css, но можно использовать postCSS.
 * Для карт использовать библиотеку Leaflet.
-* Не использовать ui-фреймворки(Bootstrap, Zurb Foundation и т.п.).
+* Не использовать ui-фреймворки (Bootstrap, Zurb Foundation и т.п.).
 * Задание должно быть написанно на TypeScript.
-* Использовать webpack.
 
 # Дополнительные требования (не обязательно, но будет плюсом)
 * Разбить объекты на группы и добавить возможность скрывать/показывать эти группы на карте.
@@ -37,6 +36,5 @@
 # Полезные ссылки
 
 * https://angular.io/styleguide
-* https://learn.javascript.ru/screencast/webpack
 * https://github.com/boykovdmitriy/angular2modal
 * https://github.com/boykovdmitriy/angular2Leaflet
